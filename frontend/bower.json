@@ -1,0 +1,20 @@
+{
+  "name": "worm-game",
+  "version": "0.0.0",
+  "authors": [
+    "Otto Kivikärki <otto.kivikarki@leadin.fi>"
+  ],
+  "description": "A multiplayer worm game using web sockets for communication",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "ui_guid_generator": "*",
+    "materialize": "~0.97.0"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "name": "ui-guid-generator",
+  "main": "dist/ui-guid-generator.js",
+  "keywords": [
+    "generator",
+    "guid",
+    "uniq"
+  ],
+  "author": "Dmitriy Kharchenko <akimoto@yandex.ru>",
+  "description": "Generator for uniq ids",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aki-russia/ui-guid-generator.git"
+  },
+  "ignore": [
+    "**/.*",
+    ".grunt",
+    "node_modules",
+    "components"
+  ],
+  "homepage": "https://github.com/aki-russia/ui-guid-generator",
+  "_release": "a6a732b3d6",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "a6a732b3d6113625c15dc53f4e42d14ef10da1af"
+  },
+  "_source": "git://github.com/aki-russia/ui-guid-generator.git",
+  "_target": "*",
+  "_originalSource": "ui_guid_generator",
+  "_direct": true
+}
